@@ -8,7 +8,7 @@ Try this if you are familiar with git, otherwise follow the below approach to cr
 git clone https://github.com/GomathiRavi17/PaginationAndSorting.git
 
 Vist https://github.com/GomathiRavi17/PaginationAndSorting
-Click <code> -> download zip. This option allows us to download the project as zip file
+Click <> code -> download zip. This option allows us to download the project as zip file
 Extract the project and import as maven project in spring tool suite
 ```
 
