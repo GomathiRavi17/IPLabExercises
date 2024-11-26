@@ -5,7 +5,11 @@
 ```
 Try this if you are familiar with git, otherwise follow the below approach to create the project
 
-git clone
+git clone https://github.com/GomathiRavi17/PaginationAndSorting.git
+
+Vist https://github.com/GomathiRavi17/PaginationAndSorting
+Click <code> -> download zip. This option allows us to download the project as zip file
+Extract the project and import as maven project in spring tool suite
 ```
 
 ## Steps to create a Springboot Application
@@ -18,7 +22,7 @@ git clone
 5. Artifact Id is the project name and package name should be like com.example (package name should always start with com.)
 ```
 
-![Project Creation Popup](./images/file creation popup.png)
+![Project Creation Popup](./images/file-creation-popup.png)
 
 ```
 6. Select the location where your project should be saved
@@ -26,7 +30,7 @@ git clone
 8. Click on next, after providing the above mentionioned details
 ```
 
-![Dependency Selection Popup](./images/dependencies selection.png)
+![Dependency Selection Popup](./images/dependencies-selection.png)
 
 ```
 9. select the following dependencies: Spring web, Spring data jpa, h2 database, lombok and click on finish.
@@ -38,13 +42,13 @@ git clone
 15. packages for model, controller and repo will look like
 ```
 
-![Package Structure](./images/package structure.png)
+![Package Structure](./images/package-structure.png)
 
 ```
 16. create model class and repository interface in the respective packages
 ```
 
-![Classes Structure](./images/classes structure.png)
+![Classes Structure](./images/classes-structure.png)
 
 ```
 17. follow the comments in each classes to know more about it
@@ -116,7 +120,7 @@ After clicking on connect, you can see the table like this
 
 execute: select * from employee
 ```
-![Employee Table](./images/employee db.png)
+![Employee Table](./images/employee-db.png)
 
 
 ### Steps to test the api ###
